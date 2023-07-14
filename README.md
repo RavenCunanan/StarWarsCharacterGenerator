@@ -1,5 +1,11 @@
 # Star Wars Character Generator
-Pressing the button will give you a random character from Star Wars with some details about that character
+Pressing the button will give you a random character from Star Wars with some details about that character.
+
+Made using React and JavaScript. 
+
+Data is pulled from Star Wars API.
+
+
 ![1](https://github.com/RavenCunanan/StarWarsCharacterGenerator/assets/63638637/8503527f-ed1e-4b1e-9954-dccc43447219)
 
 
